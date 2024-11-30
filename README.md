@@ -2,7 +2,7 @@
 
 - 🔭 My name is Vitalii
 - 🌱 I have >10 years of experience in Software Development
-- 👯 I'm experienced in .NET development, Software Architecture, team management
+- 👯 My expertise covers .NET development, software architecture and team management
 
 <br>
  <p align="center">
